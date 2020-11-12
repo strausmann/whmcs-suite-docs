@@ -36,5 +36,9 @@ Entpacken Sie die ispserverfarm-updater\_latest.zip und laden Sie den Inhalt dir
 
 ### Konfiguration
 
+Nach dem Upload muss das Addon aktiviert und der API Token in das Feld "Solutions Manager Token" eingetragen werden.
 
+![ISP Solutions Manager Setup](../.gitbook/assets/image%20%282%29.png)
+
+Nach dem Speichern wird mithilfe des API Token die weitere Einrichtung des Solutions Manager vorgenommen. Über einen API Call zu unserem System der Username und Token für unsere Composer Repositories übermittelt. Der Token ermöglicht auch die Abfrage der gekauften Produkte.
 
