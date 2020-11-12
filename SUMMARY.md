@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Dokumentation der WHMCS Suites](README.md)
 
