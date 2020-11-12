@@ -32,7 +32,7 @@ Notieren Sie sich den Key, der wird für die spätere Installation des ISP Solut
 
 ### Upload
 
-Entpacken Sie die ispserverfarm-updater\_latest.zip und laden Sie den Inhalt direkt in das Root Verzeichnis von WHMCS hoch. Der Inhalt der Zip enthält bereits die erforderliche Verzeichnisstruktur für die korrekte Platzierung im WHMCS
+Entpacken Sie die ispserverfarm-updater\_latest.zip und laden Sie den Inhalt direkt in das Root Verzeichnis von WHMCS hoch. Der Inhalt der ZIP enthält bereits die erforderliche Verzeichnisstruktur für die korrekte Platzierung im WHMCS
 
 ### Konfiguration
 

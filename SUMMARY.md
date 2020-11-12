@@ -8,6 +8,10 @@
 * [Installation](isp-solutions-manager/installation.md)
 * [Changelog](isp-solutions-manager/changelog.md)
 
+## WHMCS Booking Suite
+
+* [Overview](whmcs-booking-suite/overview.md)
+
 ## WHMCS DynDNS Suite
 
 * [Overview](whmcs-dyndns-suite/overview.md)
