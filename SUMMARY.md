@@ -6,6 +6,7 @@
 
 * [Overview](isp-solutions-manager/overview.md)
 * [Installation](isp-solutions-manager/installation.md)
+* [Usage](isp-solutions-manager/usage.md)
 * [Changelog](isp-solutions-manager/changelog.md)
 
 ## WHMCS Booking Suite
