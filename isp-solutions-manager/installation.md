@@ -42,3 +42,20 @@ Nach dem Upload muss das Addon aktiviert und der API Token in das Feld "Solution
 
 Nach dem Speichern wird mithilfe des API Token die weitere Einrichtung des Solutions Manager vorgenommen. Über einen API Call zu unserem System der Username und Token für unsere Composer Repositories übermittelt. Der Token ermöglicht auch die Abfrage der gekauften Produkte.
 
+## Verzeichnisstruktur
+
+Der ISP Solutions Manager nutzt Composer für die Installation unserer WHMCS Addons.  
+Für den Solutions Manager werden aktuell zwei getrennte Verzeichnisse verwendet.
+
+Solutions Manager:
+
+```text
+root:~# /whmcs/modules/addons/ispserverfarm_updater
+```
+
+WHMCS Addons:
+
+```text
+root:~# /whmcs/includes/ispserverfarm
+```
+

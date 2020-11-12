@@ -12,6 +12,7 @@
 ## WHMCS Booking Suite
 
 * [Overview](whmcs-booking-suite/overview.md)
+* [Installation](whmcs-booking-suite/installation.md)
 
 ## WHMCS DynDNS Suite
 
