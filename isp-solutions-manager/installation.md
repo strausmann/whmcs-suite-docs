@@ -4,7 +4,7 @@
 
 Der ISP Solutions Manager hat folgende Systemanforderungen:
 
-* iocube loader:
+* [iocube loader](https://www.ioncube.com/):
   * 10.4.0+
 * PHP:
   * 7.2+
@@ -14,7 +14,7 @@ Der ISP Solutions Manager hat folgende Systemanforderungen:
 * PHP Settings:
   * max\_execution\_time 300
   * memory\_limit min. 256MB
-* Composer:
+* [Composer](https://getcomposer.org/):
   * v2.0.6+
 
 ## Download
