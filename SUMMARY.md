@@ -24,6 +24,10 @@
 
 * [Overview](whmcs-license-suite/overview.md)
 
+## WHMCS Payment Suite
+
+* [Overview](whmcs-payment-suite/untitled.md)
+
 ## WHMCS Release Suite
 
 * [Overview](whmcs-release-suite/overview.md)
@@ -31,8 +35,4 @@
 ## WHMCS SmartNIC Suite
 
 * [Overview](whmcs-smartnic-suite/overview.md)
-
-## WHMCS Payment Suite
-
-* [Untitled](whmcs-payment-suite/untitled.md)
 
